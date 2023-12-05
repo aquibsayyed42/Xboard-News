@@ -1,7 +1,9 @@
 magazines = [
-  "https://flipboard.com/topic/technology.rss",
-  "https://flipboard.com/@dfletcher/india-tech-b2meqpd6z.rss",
-  "https://flipboard.com/@thehindu/sportstarlive-rj3ttinvz.rss"
+  "https://flipboard.com/@martincnagel/computer-programming-3afhri9tz.rss",
+  "https://flipboard.com/@ronlove2015/privacy-b8vv7pvrz.rss",
+  "https://flipboard.com/@jilaxzone/android-android-and-android-mfmfnttiz.rss",
+  "https://flipboard.com/@jxidis/cryptocurrency-0v74g4pmz.rss",
+  "https://flipboard.com/@jnibz/ai-machine-learning-end0l3fkz.rss"
 ]
 
 /** Caution: Do not write your logic in this file.
